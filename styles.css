@@ -1,0 +1,109 @@
+body {
+    background-color: #cc0066;
+}
+
+h1 {
+    font-size: 56px;
+    color: white;
+    margin: 7px;
+}
+
+h4 {
+    color: white;
+}
+
+
+.poster {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    float: left;
+    margin: 5px 70px 60px 50px;
+    background-color: white;
+    border: solid 2px #99004d;
+    
+    
+    
+}
+
+.map {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    float: left;
+    margin: 5px 70px 60px 50px;
+    background-color: white;
+    border: solid 2px #99004d;
+}
+
+
+.aboutUs {
+    text-align: center;
+    margin: 5px;
+    border: solid 2px #99004d;
+    background-color: white;
+}
+
+
+.purpose {
+  	float: left;
+ 	width: 45%;
+  	text-align: center;
+    border: solid 2px #99004d;
+    margin: 40px 5px 60px 70px;
+    background-color: white;
+}
+
+
+
+.help {
+    float: left;
+    text-align: center;
+    width: 48%;
+    margin: 40px 10px 0px 0px;
+    padding: 0px 20px 0px 0px;
+    background-color: white;
+    border: solid 2px;
+}
+
+.sites {
+    float: left;
+    text-align: center;
+    width: 48.7%;
+    margin: 0px 0px 0px 0px;
+    background-color: white;
+    padding: 0px 0px 20px 0px;
+    border: solid 2px;
+}
+
+
+.info {
+  	float: left;
+ 	width: 45%;
+  	text-align: center;
+    border: solid 2px #99004d;
+    margin: 40px 5px 60px 5px;
+    background-color: white;
+}
+
+
+.s1, .s2, .s3 {
+    width: 250px;
+    height: 50px;
+}
+
+
+h2 {
+    margin: 40px;
+    color: white;
+}
+
+.sec1, .sec2, .sec3 {
+    margin: 10px;
+    border: solid 2px #99004d;
+    overflow: auto;
+    background-color: #b30059;
+    padding: 40px;
+}
